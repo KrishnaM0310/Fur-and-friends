@@ -91,7 +91,7 @@ Update Node.js version in Netlify settings to match the project's requirement.
 - **Krishna M.**
 - **Shawna H.**
 - **Lynda K.**
-- **Armita R.**
+- **Armita T.**
 
 ## License
 This project is licensed under the MIT License.
